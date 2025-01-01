@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Subudhi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 📫 How to reach me **amansubudhi12@gmail.com**
 
